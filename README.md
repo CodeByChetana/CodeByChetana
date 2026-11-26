@@ -5,9 +5,7 @@
 
 <!-- DYNAMIC TYPING SUBTITLE -->
 <p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 ---
@@ -75,18 +73,3 @@ philosophy: "Bridging analytical insights with clean, user-friendly interfaces."
   <img src="https://vercel.app" width="100%" />
 </p>
 
-
-<!--
-**CodeByChetana/CodeByChetana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
